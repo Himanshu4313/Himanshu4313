@@ -38,7 +38,7 @@
       <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21~bgwhite.svg" alt="Redux" title="Redux" width="40" height="40"/>
        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="Nodejs" width="40" height="40"/>
-       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" title="Expressjs" width="40" height="40"/>
+       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="ExpressJS" title="Expressjs" width="40" height="40"/>
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
 </p>
 
