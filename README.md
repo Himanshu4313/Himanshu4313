@@ -21,8 +21,8 @@
 
 
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="Javascript" title="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" title="JAVA" width="40" height="40"/> 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="Javascript" title="javascript" width="60" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" title="JAVA" width="60" height="45"/> 
 </p>
 
 #### OS Stack
