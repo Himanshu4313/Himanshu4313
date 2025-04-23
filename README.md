@@ -1,11 +1,11 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Nasiullha Chaudhari a.k.a <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Himanshu Kumar </font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/himanshukumar24/" target="_blank" rel="noreferrer">Himanshu Kumar</a> is a passionate Full Stack Engineer from India, working on full stack project now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
 <p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
+  <a href="https://hk1portfolio.netlify.app/" target="_blank" rel="noreferrer"> Book a Call with me! </a>
 </p>
 
 <!-- GIF -->
@@ -15,13 +15,15 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- I work on Full Stack , Microservices, containers, and everything around it.
+- I’m looking to collaborate on **Full Stack Projects**
 
 
 
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="Javascript" title="javascript" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" title="JAVA" width="40" height="40"/> 
+</p>
 
 #### OS Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
