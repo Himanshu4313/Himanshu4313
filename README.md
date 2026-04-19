@@ -21,7 +21,7 @@
 
 
 #### Programming Language Stack
-<p  display="flex" align="center">
+<p   align="left">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="Javascript" title="javascript" width="60" height="45"/> 
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" title="JAVA" width="60" height="45"/> 
 </p>
